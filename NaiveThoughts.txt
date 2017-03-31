@@ -1,0 +1,17 @@
+Naive Thoughts:
+
+weather一表内的各种地理天气要素可作为后验分布
+
+Task 1: To estimate the average travel time
+Task 2: To predict average tollgate traffic volume
+
+二十分钟之内所有车辆通过的时间，对于每辆车而言，都只需要记录这段路程的通过时间，路程的长短和物理要素相同
+
+路程被分为若干段，每段的通过时间有记录，每段的长宽也有记录 ？通过计算得到每段到分叉路口的距离？
+
+平均速度和以上着要素的关系，建立模型
+
+分别计算A、B到每个收费站的位置，交叉路口的个数
+
+
+
