@@ -1,0 +1,11 @@
+Task/Date/Responsibility
+
+1.Data Preparation
+1.1 Data Exploration
+1.2 Data Cleaning
+
+2.Naive Thoughts Conclusion
+
+3.Method Discussion
+
+4.Data Processing
